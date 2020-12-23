@@ -1,0 +1,6 @@
+include ':xmljavalayout'
+include ':javalayout'
+include ':xmllayout'
+include ':kaixinxiaoxiaole'
+include ':app'
+rootProject.name = "HelloWorld"
