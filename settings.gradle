@@ -1,3 +1,5 @@
+include ':loginweixin'
+include ':softwareUpdate'
 include ':myview'
 include ':xmljavalayout'
 include ':javalayout'
